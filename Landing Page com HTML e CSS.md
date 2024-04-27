@@ -22,3 +22,5 @@ Tecnologias usadas no Desafio:
 <td>Visual Studio</td>
 </tr>
 </table>
+<p><b>Observações:</b><i>para aplicar os textos em gradiente, utilize a propriedade CSS background-clip, porém, para funcionar em alguns navegadores, é necessário utilizar a propriedade -webkit-background-clip: text;</p>
+<p>Caso tenha alguma dúvida, ou queira comparar o resultado do desafio que você fez, temos o site finalizado na filial final . Basta alterar o branch do projeto utilizando o comando git checkout finalno seu terminal.</i></p>
